@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace MicroService.Shoping.Customer.Domain.Entities
+namespace MicroService.Shoping.Customers.Domain.Entities
 {
     public class Customer : AggregateRoot
     {

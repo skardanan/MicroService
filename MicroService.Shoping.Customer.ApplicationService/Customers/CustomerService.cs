@@ -7,9 +7,12 @@ namespace MicroService.Shoping.Customer.ApplicationService.Customers
 {
     public class CustomerService
     {
-        public CustomerService(ICustomerRepository)
-        {
 
+        public CustomerService(ICustomerRepository repository)
+        {
+            _repository = repository;
         }
-    }
+        private readonly ICustomerRepository _repository;
+
+    } 
 }

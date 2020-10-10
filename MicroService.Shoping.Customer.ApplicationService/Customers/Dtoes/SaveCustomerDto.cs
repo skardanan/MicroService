@@ -4,7 +4,9 @@ using System.Text;
 
 namespace MicroService.Shoping.Customer.ApplicationService.Customers.Dtoes
 {
-    class SaveCustomerDto
+    public class SaveCustomerDto
     {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
     }
 }

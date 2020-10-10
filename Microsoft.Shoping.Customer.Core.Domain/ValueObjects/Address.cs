@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace MicroService.Shoping.Customer.Domain.ValueObjects
+namespace MicroService.Shoping.Customers.Domain.ValueObjects
 {
     public class Address : ValueObject
     {

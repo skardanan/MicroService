@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Customer", "01. Customer", "{71699C0E-67B3-4ECC-96D5-22D16A4D487B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Customers", "01. Customers", "{71699C0E-67B3-4ECC-96D5-22D16A4D487B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Core", "01. Core", "{4F8B2814-F4FA-4BE3-993B-1ED98C3033DA}"
 EndProject

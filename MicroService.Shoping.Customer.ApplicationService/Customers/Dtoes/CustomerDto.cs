@@ -4,7 +4,11 @@ using System.Text;
 
 namespace MicroService.Shoping.Customer.ApplicationService.Customers.Dtoes
 {
-    class CustomerDto
+    public class CustomerDto
     {
+        public string CustomerId
+        public string FirstName { get; private set; }
+        public string LastName { get; private set; }
+        public AddressDto Address { get; private set; }
     }
 }

@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace MicroService.Shoping.Customer.Domain.Events
+namespace MicroService.Shoping.Customers.Domain.Events
 {
     public class AddressChanged : IDomainEvent
     {
