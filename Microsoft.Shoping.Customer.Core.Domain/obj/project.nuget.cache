@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S32evf19HLewUZfLq/SmyoDJ2AZGyZIORk0yqmpRtkhjc5ITVaLWo9JaBYe9cS1jjY8hXAEu+qk0wAsjt91w2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sara\\Source\\Repos\\MicroService.Shoping\\Microsoft.Shoping.Customer.Core.Domain\\MicroService.Shoping.Customer.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

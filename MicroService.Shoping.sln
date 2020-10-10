@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Customer", "01. Customer", "{71699C0E-67B3-4ECC-96D5-22D16A4D487B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Core", "01. Core", "{4F8B2814-F4FA-4BE3-993B-1ED98C3033DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroService.Shoping.Customer.Domain", "Microsoft.Shoping.Customer.Core.Domain\MicroService.Shoping.Customer.Domain.csproj", "{1CBC331C-7F7A-40F1-AA73-4FF7B0060F4D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00. Framework", "00. Framework", "{A6CD3D20-8CEE-48D6-9ABF-F56EEA2BF4D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroService.Shoping.Framework", "MicroService.Shoping.Framework\MicroService.Shoping.Framework.csproj", "{87FF0286-041F-44EB-96AE-C6BC977B1E83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroService.Shoping.Customer.ApplicationService", "MicroService.Shoping.Customer.ApplicationService\MicroService.Shoping.Customer.ApplicationService.csproj", "{E884DFD5-B6BD-4DC7-819F-CC844DDE6C91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CBC331C-7F7A-40F1-AA73-4FF7B0060F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CBC331C-7F7A-40F1-AA73-4FF7B0060F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CBC331C-7F7A-40F1-AA73-4FF7B0060F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CBC331C-7F7A-40F1-AA73-4FF7B0060F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87FF0286-041F-44EB-96AE-C6BC977B1E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87FF0286-041F-44EB-96AE-C6BC977B1E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87FF0286-041F-44EB-96AE-C6BC977B1E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87FF0286-041F-44EB-96AE-C6BC977B1E83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E884DFD5-B6BD-4DC7-819F-CC844DDE6C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E884DFD5-B6BD-4DC7-819F-CC844DDE6C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E884DFD5-B6BD-4DC7-819F-CC844DDE6C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E884DFD5-B6BD-4DC7-819F-CC844DDE6C91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4F8B2814-F4FA-4BE3-993B-1ED98C3033DA} = {71699C0E-67B3-4ECC-96D5-22D16A4D487B}
+		{1CBC331C-7F7A-40F1-AA73-4FF7B0060F4D} = {4F8B2814-F4FA-4BE3-993B-1ED98C3033DA}
+		{87FF0286-041F-44EB-96AE-C6BC977B1E83} = {A6CD3D20-8CEE-48D6-9ABF-F56EEA2BF4D7}
+		{E884DFD5-B6BD-4DC7-819F-CC844DDE6C91} = {4F8B2814-F4FA-4BE3-993B-1ED98C3033DA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7472D227-F956-4291-84ED-E7EF43545FEF}
+	EndGlobalSection
+EndGlobal
