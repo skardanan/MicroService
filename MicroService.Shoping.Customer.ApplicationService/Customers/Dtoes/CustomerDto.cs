@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace MicroService.Shoping.Customer.ApplicationService.Customers.Dtoes
+namespace MicroService.Shoping.Customers.ApplicationService.Customers.Dtoes
 {
     public class CustomerDto
     {

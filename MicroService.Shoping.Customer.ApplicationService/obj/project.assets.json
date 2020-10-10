@@ -26,17 +26,17 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "MicroService.Shoping.Customer.Domain/1.0.0": {
+      "MicroService.Shoping.Customers.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "MicroService.Shoping.Framework": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/MicroService.Shoping.Customer.Domain.dll": {}
+          "bin/placeholder/MicroService.Shoping.Customers.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/MicroService.Shoping.Customer.Domain.dll": {}
+          "bin/placeholder/MicroService.Shoping.Customers.Domain.dll": {}
         }
       },
       "MicroService.Shoping.Framework/1.0.0": {
@@ -195,10 +195,10 @@
         "netstandard.library.nuspec"
       ]
     },
-    "MicroService.Shoping.Customer.Domain/1.0.0": {
+    "MicroService.Shoping.Customers.Domain/1.0.0": {
       "type": "project",
-      "path": "../Microsoft.Shoping.Customer.Core.Domain/MicroService.Shoping.Customer.Domain.csproj",
-      "msbuildProject": "../Microsoft.Shoping.Customer.Core.Domain/MicroService.Shoping.Customer.Domain.csproj"
+      "path": "../Microsoft.Shoping.Customer.Core.Domain/MicroService.Shoping.Customers.Domain.csproj",
+      "msbuildProject": "../Microsoft.Shoping.Customer.Core.Domain/MicroService.Shoping.Customers.Domain.csproj"
     },
     "MicroService.Shoping.Framework/1.0.0": {
       "type": "project",
@@ -208,7 +208,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "MicroService.Shoping.Customer.Domain >= 1.0.0",
+      "MicroService.Shoping.Customers.Domain >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -219,9 +219,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sara\\Source\\Repos\\MicroService.Shoping\\MicroService.Shoping.Customer.ApplicationService\\MicroService.Shoping.Customer.ApplicationService.csproj",
-      "projectName": "MicroService.Shoping.Customer.ApplicationService",
-      "projectPath": "C:\\Users\\Sara\\Source\\Repos\\MicroService.Shoping\\MicroService.Shoping.Customer.ApplicationService\\MicroService.Shoping.Customer.ApplicationService.csproj",
+      "projectUniqueName": "C:\\Users\\Sara\\Source\\Repos\\MicroService.Shoping\\MicroService.Shoping.Customer.ApplicationService\\MicroService.Shoping.Customers.ApplicationService.csproj",
+      "projectName": "MicroService.Shoping.Customers.ApplicationService",
+      "projectPath": "C:\\Users\\Sara\\Source\\Repos\\MicroService.Shoping\\MicroService.Shoping.Customer.ApplicationService\\MicroService.Shoping.Customers.ApplicationService.csproj",
       "packagesPath": "C:\\Users\\Sara\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Sara\\Source\\Repos\\MicroService.Shoping\\MicroService.Shoping.Customer.ApplicationService\\obj\\",
       "projectStyle": "PackageReference",
@@ -242,8 +242,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Sara\\Source\\Repos\\MicroService.Shoping\\Microsoft.Shoping.Customer.Core.Domain\\MicroService.Shoping.Customer.Domain.csproj": {
-              "projectPath": "C:\\Users\\Sara\\Source\\Repos\\MicroService.Shoping\\Microsoft.Shoping.Customer.Core.Domain\\MicroService.Shoping.Customer.Domain.csproj"
+            "C:\\Users\\Sara\\Source\\Repos\\MicroService.Shoping\\Microsoft.Shoping.Customer.Core.Domain\\MicroService.Shoping.Customers.Domain.csproj": {
+              "projectPath": "C:\\Users\\Sara\\Source\\Repos\\MicroService.Shoping\\Microsoft.Shoping.Customer.Core.Domain\\MicroService.Shoping.Customers.Domain.csproj"
             }
           }
         }

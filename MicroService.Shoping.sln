@@ -7,13 +7,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Customers", "01. Custom
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Core", "01. Core", "{4F8B2814-F4FA-4BE3-993B-1ED98C3033DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroService.Shoping.Customer.Domain", "Microsoft.Shoping.Customer.Core.Domain\MicroService.Shoping.Customer.Domain.csproj", "{1CBC331C-7F7A-40F1-AA73-4FF7B0060F4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroService.Shoping.Customers.Domain", "Microsoft.Shoping.Customer.Core.Domain\MicroService.Shoping.Customers.Domain.csproj", "{1CBC331C-7F7A-40F1-AA73-4FF7B0060F4D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00. Framework", "00. Framework", "{A6CD3D20-8CEE-48D6-9ABF-F56EEA2BF4D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroService.Shoping.Framework", "MicroService.Shoping.Framework\MicroService.Shoping.Framework.csproj", "{87FF0286-041F-44EB-96AE-C6BC977B1E83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroService.Shoping.Framework", "MicroService.Shoping.Framework\MicroService.Shoping.Framework.csproj", "{87FF0286-041F-44EB-96AE-C6BC977B1E83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroService.Shoping.Customer.ApplicationService", "MicroService.Shoping.Customer.ApplicationService\MicroService.Shoping.Customer.ApplicationService.csproj", "{E884DFD5-B6BD-4DC7-819F-CC844DDE6C91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroService.Shoping.Customers.ApplicationService", "MicroService.Shoping.Customer.ApplicationService\MicroService.Shoping.Customers.ApplicationService.csproj", "{E884DFD5-B6BD-4DC7-819F-CC844DDE6C91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

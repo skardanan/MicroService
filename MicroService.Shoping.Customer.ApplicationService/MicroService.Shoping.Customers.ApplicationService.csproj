@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Microsoft.Shoping.Customer.Core.Domain\MicroService.Shoping.Customer.Domain.csproj" />
+    <ProjectReference Include="..\Microsoft.Shoping.Customer.Core.Domain\MicroService.Shoping.Customers.Domain.csproj" />
   </ItemGroup>
 
 </Project>

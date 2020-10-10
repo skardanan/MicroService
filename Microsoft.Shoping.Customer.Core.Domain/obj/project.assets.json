@@ -201,9 +201,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sara\\Source\\Repos\\MicroService.Shoping\\Microsoft.Shoping.Customer.Core.Domain\\MicroService.Shoping.Customer.Domain.csproj",
-      "projectName": "MicroService.Shoping.Customer.Domain",
-      "projectPath": "C:\\Users\\Sara\\Source\\Repos\\MicroService.Shoping\\Microsoft.Shoping.Customer.Core.Domain\\MicroService.Shoping.Customer.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Sara\\Source\\Repos\\MicroService.Shoping\\Microsoft.Shoping.Customer.Core.Domain\\MicroService.Shoping.Customers.Domain.csproj",
+      "projectName": "MicroService.Shoping.Customers.Domain",
+      "projectPath": "C:\\Users\\Sara\\Source\\Repos\\MicroService.Shoping\\Microsoft.Shoping.Customer.Core.Domain\\MicroService.Shoping.Customers.Domain.csproj",
       "packagesPath": "C:\\Users\\Sara\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Sara\\Source\\Repos\\MicroService.Shoping\\Microsoft.Shoping.Customer.Core.Domain\\obj\\",
       "projectStyle": "PackageReference",
